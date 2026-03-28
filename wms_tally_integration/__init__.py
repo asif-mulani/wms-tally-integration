@@ -1,0 +1,1 @@
+"""\n\nFrappe App: wms_tally_integration\nVersion: 1.0.0\nDate: 2026-03-28\n"""
